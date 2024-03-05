@@ -14,7 +14,8 @@
         "php": "^7.4 | ^8.0 | ^8.3",
         "illuminate/database": "^11.0@dev",
         "illuminate/events": "^11.0@dev",
-        "nikic/fast-route": "^2.0@dev"
+        "nikic/fast-route": "^2.0@dev",
+        "myaoks/collect": "dev-master"
     },
 
     "autoload": {
